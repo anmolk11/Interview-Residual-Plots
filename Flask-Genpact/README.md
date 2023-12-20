@@ -1,3 +1,8 @@
+# Before Input
 ![Alt text](Before_input.png)
+
+# After Input
 ![Alt text](After_input.png)
-![Alt text](relative_path_to_image)
+
+# Residual Plot
+![Alt text](Residual_plot.png)
